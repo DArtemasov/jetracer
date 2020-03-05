@@ -84,6 +84,12 @@ After finishing these steps, you'll be all set to program JetRacer.  Once you're
      cd jetracer
      sudo python3 setup.py install
      ```
+     
+ 3. Execute the following in a terminal to install the latest I2C library
+ 
+     ```bash
+     sudo pip3 install Adafruit-PureIO --upgrade
+     ```
  
 ## Step 6 - Set the Jetson Nano to 5W mode
 
