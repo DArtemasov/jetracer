@@ -62,7 +62,7 @@ After finishing these steps, you'll be all set to program JetRacer.  Once you're
 
     ```bash
     cd $HOME
-    git clone https://github.com/NVIDIA-AI-IOT/jetcam
+    git clone https://github.com/alex4men/jetcam
     cd jetcam
     sudo python3 setup.py install
     ```
